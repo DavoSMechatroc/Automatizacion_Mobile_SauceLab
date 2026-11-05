@@ -1,0 +1,27 @@
+# Maven - archivos generados
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Archivos privados
+.env
+.env.*
+*.keystore
+*.jks
+
+# APK locales
+*.apk
